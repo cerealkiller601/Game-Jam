@@ -302,8 +302,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "UnityEditor.MainToolbarWindow\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: -16000
+    y: -16000
     width: 1438
     height: 36
   m_SerializedDataModeController:
@@ -568,8 +568,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 370
+    x: 1
+    y: 433
     width: 1153.5
     height: 372
   m_SerializedDataModeController:
@@ -673,8 +673,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 24
+    x: -16000
+    y: -15964
     width: 954.5
     height: 320
   m_SerializedDataModeController:
@@ -1342,7 +1342,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 956.5
-    y: 24
+    y: 87
     width: 197
     height: 320
   m_SerializedDataModeController:
@@ -1365,7 +1365,7 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -60738
+      - m_Data: -60390
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1635,7 +1635,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1155.5
-    y: 24
+    y: 87
     width: 282.5
     height: 718
   m_SerializedDataModeController:
